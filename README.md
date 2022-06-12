@@ -1,2 +1,3 @@
-# TheGoProgrammingLanguage
-Just a repository to register my journey learning the Go language
+This is a repository to register my journey learning the Go language.
+
+Reference: **The Go Programming Language**. A. Donovan and B. Kernighan. Addison-Wesley Professional Computing Series, 2015.
