@@ -26,7 +26,7 @@ func main() {
 	}
 	for line, n := range counts {
 		if n > 1 {
-			for filename, _ := range files {
+			for filename := range files {
 				if !printedFilenames[filename] {
 					printedFilenames[filename] = printDupFilenames(filename, line)
 				}
